@@ -1,0 +1,1 @@
+print("RED BLUE GREEN")
