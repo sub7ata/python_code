@@ -1,1 +1,0 @@
-print("COW DOG GOAT")

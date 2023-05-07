@@ -1,1 +1,0 @@
-print("RED BLUE GREEN")
